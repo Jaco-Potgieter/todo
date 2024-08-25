@@ -32,8 +32,8 @@ The ToDo Application is a Java-based service designed to manage to-do items effi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-application.git
-    cd todo-application
+    git clone https://github.com/Jaco-Potgieter/todo.git
+    cd todo
     ```
 
 2. Build the project:
